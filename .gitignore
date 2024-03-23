@@ -2,6 +2,4 @@
 /.gradle/
 /build/
 /build/classes/java/main/
-/src/main/resources/cdrs/*
-/src/main/resources/reports/*
 /.idea
