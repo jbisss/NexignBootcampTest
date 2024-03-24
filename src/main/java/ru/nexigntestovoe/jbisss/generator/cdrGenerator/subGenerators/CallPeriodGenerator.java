@@ -4,6 +4,9 @@ import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 import java.util.Random;
 
+/**
+ * Generator of call period
+ */
 public class CallPeriodGenerator {
 
     private static final int HOURS_BEFORE_NOW = 3;

@@ -2,6 +2,9 @@ package ru.nexigntestovoe.jbisss.generator.cdrGenerator.subGenerators;
 
 import java.util.Random;
 
+/**
+ * Generator of call type
+ */
 public class CallTypeGenerator {
 
     private static final int CALL_TYPE_BOUND = 2;
